@@ -1,0 +1,14 @@
+header{
+    color: white;
+    background-color: rgb(44, 65, 65);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0px 0px;
+}
+nav,ul{
+    list-style-type:none;
+    display: inline-block;
+    display: flex;
+    gap: 5px;
+}
